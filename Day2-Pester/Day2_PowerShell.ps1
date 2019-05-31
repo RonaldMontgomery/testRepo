@@ -1,0 +1,1 @@
+Invoke-Pester -Path 'C:\Users\ronal\version-control\testRepo\Day2-Pester\Get-BiosInfo.Test.ps1'

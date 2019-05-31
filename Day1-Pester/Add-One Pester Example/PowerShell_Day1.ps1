@@ -1,1 +1,1 @@
-Invoke-Pester -Path 'C:\Users\ronal\version-control\testRepo\Add-One.Tests.ps1'
+Invoke-Pester -Path 'C:\Users\ronal\version-control\testRepo\Day1-Pester\Add-One Pester Example\Add-One.Tests.ps1'

@@ -1,0 +1,1 @@
+Invoke-Pester -Path "C:\Users\ronal\version-control\testRepo\Day3-Pester\Get-FileContents.Tests.ps1"

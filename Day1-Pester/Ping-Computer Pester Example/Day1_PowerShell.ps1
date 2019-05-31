@@ -1,1 +1,1 @@
-Invoke-Pester -Path 'C:\Users\ronal\version-control\testRepo\Ping-Computer Pester Example\Day1_PowerShell.ps1'
+Invoke-Pester -Path 'C:\Users\ronal\version-control\testRepo\Ping-Computer Pester Example\Ping-Computer.Tests.ps1'
